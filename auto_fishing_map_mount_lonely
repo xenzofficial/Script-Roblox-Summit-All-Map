@@ -1,0 +1,19 @@
+local running = true
+
+-- Created By AL Official
+game:GetService("UserInputService").InputBegan:Connect(function(input, gameProcessed)
+    if not gameProcessed and input.KeyCode == Enum.KeyCode.P then
+        running = false
+    end
+end)
+
+while running do
+    local args = {
+        {
+            hookPosition = Vector3.new(9332.94140625, 2370.135009765625, -2892.6171875),
+            power = 100
+        }
+    }
+    game:GetService("ReplicatedStorage"):WaitForChild("FishingSystem"):WaitForChild("FishGiver"):FireServer(unpack(args))
+    task.wait(0.5) -- kasih delay biar gak spam
+end
