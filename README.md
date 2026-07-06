@@ -18,6 +18,7 @@ loadstring(game:HttpGet(''))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/xenzofficial/Script-Roblox-Summit-All-Map/refs/heads/main/mount_lonely_max_speed_4.lua'))()
 ```
 <summary>auto fishing🔥</summary>
+
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/xenzofficial/Script-Roblox-Summit-All-Map/refs/heads/main/auto_fishing_mount_lonely.lua'))()
 ```
