@@ -10,95 +10,130 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/xenzofficial/Script-R
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/xenzofficial/Script-Roblox-Summit-All-Map/refs/heads/main/mount__max_speed_.lua'))()
 ```
-# 🏔️ Roblox Summit Scripts
 
-> **High-performance scripts for Roblox Summit - All Maps Edition**
+# 🚀 Script Roblox Summit - All Map
+
+> **Koleksi Script untuk Roblox Summit dengan berbagai fitur keren!**
 
 ![Roblox Summit](https://img.shields.io/badge/Roblox-Summit-blue?style=for-the-badge&logo=roblox)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Version](https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge)
+![Lua](https://img.shields.io/badge/Lua-5.1-blue?style=for-the-badge&logo=lua)
+![Version](https://img.shields.io/badge/Version-1.0-green?style=for-the-badge)
 
 ---
 
-## 📋 Table of Contents
-- [About](#-about)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Scripts](#-scripts)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [Disclaimer](#-disclaimer)
+## 📋 Daftar Isi
+- [Tentang Script Ini](#-tentang-script-ini)
+- [Cara Penggunaan](#-cara-penggunaan)
+- [Fitur Script](#-fitur-script)
+- [Daftar Script](#-daftar-script)
+- [Peringatan](#️-peringatan)
+- [Kontribusi](#-kontribusi)
+- [Lisensi](#-lisensi)
 
 ---
 
-## 🎯 About
+## 📖 Tentang Script Ini
 
-Collection of optimized scripts for **Roblox Summit** that work across all maps. Designed for maximum performance and reliability.
+Script ini merupakan kumpulan utility scripts untuk game **Roblox Summit**. Dibuat untuk membantu pemain mendapatkan pengalaman bermain yang lebih menyenangkan dengan berbagai fitur tambahan.
 
----
-
-## ⚡ Features
-
-- 🚀 **Mount Speed Boosts** - Increase mount speed to maximum limits  
-- 🌍 **All Maps Support** - Works across every map  
-- 📦 **Loadstring Compatible** - Simple one-line implementation  
-- 🔄 **Regular Updates** - Stay ahead with latest optimizations  
+> ⚠️ **Catatan**: Script ini dibuat untuk tujuan edukasi dan hiburan. Gunakan dengan bijak!
 
 ---
 
-## 📦 Installation
+## 🎮 Cara Penggunaan
 
-### Requirements
-- Roblox account  
-- Compatible executor (Synapse X, Krnl, Script-Ware, etc.)
+### 1️⃣ Persiapan
+Pastikan kamu menggunakan **Executor** yang mendukung `loadstring` (seperti: Synapse X, Krnl, ScriptWare, dll).
 
----
+### 2️⃣ Menjalankan Script
+Salin dan tempel kode berikut ke executor:
 
-## 🛠️ Scripts
-
-### 🐎 Mount Max Speed
-Enable maximum speed for your mount.
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/xenzofficial/Script-Roblox-Summit-All-Map/refs/heads/main/mount__max_speed_.lua'))()
+loadstring(game:HttpGet(''))()
 ```
 
-### 🐎 Mount Lonely Max Speed 4  
-Optimized speed boost limited to speed level 4.
+> 💡 **Tips**: Ganti URL dengan link script yang ingin kamu gunakan dari daftar di bawah.
+
+---
+
+## ✨ Fitur Script
+
+| Fitur | Deskripsi |
+|-------|-----------|
+| 🏔️ **Mount Lonely** | Kecepatan maksimal 4x lipat |
+| 🗺️ **All Map Support** | Bekerja di semua peta Summit |
+| ⚡ **Easy to Use** | Cukup 1 baris kode |
+| 🔄 **Auto Update** | Script selalu diperbarui |
+
+---
+
+## 📦 Daftar Script
+
+### 🏔️ Mount Lonely Max Speed 4
+**Fungsi**: Meningkatkan kecepatan mount "Lonely" hingga 4x lipat!
+
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/xenzofficial/Script-Roblox-Summit-All-Map/refs/heads/main/mount_lonely_max_speed_4.lua'))()
 ```
 
----
+<details>
+<summary><b>📸 Preview Fitur</b></summary>
 
-## 🎮 Usage
-
-1. Copy the desired script  
-2. Paste into your executor  
-3. Execute and enjoy!  
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! Feel free to:
-- Report bugs  
-- Suggest features  
-- Submit improvements  
+```
+⚡ Speed Normal: 1x
+🚀 Speed Boost: 4x
+🏃 Lebih cepat dari pemain lain!
+</details>
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Peringatan
 
-> **Note:** These scripts are for educational purposes only. Use at your own risk. The developer is not responsible for any consequences resulting from the use of these scripts.
+> **PERHATIAN!**
+
+- ❌ **Jangan** menggunakan script ini untuk hal-hal yang merugikan pemain lain
+- ❌ **Jangan** menggunakan di akun utama jika tidak ingin terkena risiko
+- ✅ **Gunakan** hanya untuk hiburan dan eksplorasi
+- ✅ **Buat** akun alternatif jika ingin mencoba
+
+> 🔒 **Safety First!** Selalu prioritaskan keamanan akun Roblox kamu.
 
 ---
 
-## 📄 License
+## 🤝 Kontribusi
 
-MIT License - feel free to use and modify.
+Ingin berkontribusi? Ikuti langkah berikut:
+
+1. **Fork** repository ini
+2. **Buat** branch baru (`git checkout -b fitur-baru`)
+3. **Commit** perubahanmu (`git commit -m 'Menambah fitur X'`)
+4. **Push** ke branch (`git push origin fitur-baru`)
+5. Buat **Pull Request**
 
 ---
 
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/xenzofficial">xenz</a>
-</p>
+## 📄 Lisensi
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## 🌟 Dukung Kami
+
+Jika script ini bermanfaat, berikan ⭐ di repository ini!
+
+[![GitHub stars](https://img.shields.io/github/stars/xenzofficial/Script-Roblox-Summit-All-Map?style=social)](https://github.com/xenzofficial/Script-Roblox-Summit-All-Map/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/xenzofficial/Script-Roblox-Summit-All-Map?style=social)](https://github.com/xenzofficial/Script-Roblox-Summit-All-Map/network/members)
+
+---
+
+### 📞 Kontak
+
+- **GitHub**: [@xenzofficial](https://github.com/xenzofficial)
+- **Discord**: [Join Server](https://discord.gg/your-invite)
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Xenzofficial</sub>
+</div>
