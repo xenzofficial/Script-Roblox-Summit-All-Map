@@ -6,8 +6,8 @@ loadstring(game:HttpGet(''))()
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/xenzofficial/Script-Roblox-Summit-All-Map/refs/heads/main/mount_lonely_max_speed_4.lua'))()
 ```
-<details>
+<summary>
 ```lua
-<copy>loadstring(game:HttpGet('https://raw.githubusercontent.com/xenzofficial/Script-Roblox-Summit-All-Map/refs/heads/main/mount__max_speed_.lua'))()</copy>
+loadstring(game:HttpGet('https://raw.githubusercontent.com/xenzofficial/Script-Roblox-Summit-All-Map/refs/heads/main/mount__max_speed_.lua'))()
 ```
-</details>
+</summary>
