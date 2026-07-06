@@ -2,12 +2,11 @@
 ```lua
 loadstring(game:HttpGet(''))()
 ```
-<details>mount lonely max speed 4</details>
+### mount lonely max speed 4
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/xenzofficial/Script-Roblox-Summit-All-Map/refs/heads/main/mount_lonely_max_speed_4.lua'))()
 ```
-<summary>
+### mount max speed 
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/xenzofficial/Script-Roblox-Summit-All-Map/refs/heads/main/mount__max_speed_.lua'))()
 ```
-</summary>
